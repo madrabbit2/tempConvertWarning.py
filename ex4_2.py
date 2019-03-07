@@ -20,5 +20,9 @@ if centigrade <= 0:
     print  " or maybe you should stay in bed"
     print "Stay indoors, it is too cold outside"
     print "Wear  a gloves, hat and scarf"
+else:
+    print "There are no extreme weather warnings today."
+    print "Check again tomorrow"
+
 print "Have a pleasant day"
 
